@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Digital Transformation\\GitHub\\p201808201138\\aspnetapp\\aspnetapp.csproj",
-      "projectName": "aspnetapp",
-      "projectPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\aspnetapp\\aspnetapp.csproj",
+      "projectUniqueName": "C:\\Digital Transformation\\GitHub\\p201808201138\\p201808201138.csproj",
+      "projectName": "p201808201138",
+      "projectPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\p201808201138.csproj",
       "packagesPath": "C:\\Users\\Mafas\\.nuget\\packages\\",
-      "outputPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\aspnetapp\\obj\\",
+      "outputPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
