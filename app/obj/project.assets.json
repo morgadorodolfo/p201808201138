@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Digital Transformation\\GitHub\\p201808201138\\p201808201138.csproj",
-      "projectName": "p201808201138",
-      "projectPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\p201808201138.csproj",
+      "projectUniqueName": "C:\\Digital Transformation\\GitHub\\p201808201138\\app\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\app\\app.csproj",
       "packagesPath": "C:\\Users\\Mafas\\.nuget\\packages\\",
-      "outputPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\obj\\",
+      "outputPath": "C:\\Digital Transformation\\GitHub\\p201808201138\\app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
